@@ -1,6 +1,8 @@
 # depslib dependency file v1.0
-1720311222 source:/home/mohamed/Desktop/GitRepos/BasicTextEditor/main.cpp
+1720313863 source:/home/mohamed/Desktop/GitRepos/BasicTextEditor/main.cpp
 	<ncurses.h>
 	<vector>
 	<string>
+	<fstream>
+	<algorithm>
 
