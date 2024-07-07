@@ -1,0 +1,3 @@
+ja
+Press 'q' to quit, 's' to save, 'l' to load, 'f' to find, 'r' to replace.
+Use arrow keys to navigate. Press 'i' to toggle insert mode.

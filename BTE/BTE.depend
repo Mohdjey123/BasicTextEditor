@@ -6,3 +6,13 @@
 	<fstream>
 	<algorithm>
 
+1720314550 source:/home/mohamed/Desktop/GitRepos/BasicTextEditor/texteditor.cpp
+	"texteditor.h"
+	<ncurses.h>
+	<fstream>
+	<algorithm>
+
+1720314568 /home/mohamed/Desktop/GitRepos/BasicTextEditor/texteditor.h
+	<vector>
+	<string>
+

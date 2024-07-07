@@ -39,6 +39,8 @@
 			<Add library="ncurses" />
 		</Linker>
 		<Unit filename="../main.cpp" />
+		<Unit filename="../texteditor.cpp" />
+		<Unit filename="../texteditor.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

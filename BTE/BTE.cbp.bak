@@ -14,6 +14,9 @@
 				<Compiler>
 					<Add option="-g" />
 				</Compiler>
+				<Linker>
+					<Add library="ncurses" />
+				</Linker>
 			</Target>
 			<Target title="Release">
 				<Option output="bin/Release/BTE" prefix_auto="1" extension_auto="1" />
@@ -32,7 +35,11 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Linker>
+			<Add library="ncurses" />
+		</Linker>
 		<Unit filename="../main.cpp" />
+		<Unit filename="../texteditor.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
